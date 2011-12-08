@@ -1,1 +1,7 @@
-Cambiar datos de cuenta en clases.php y contraseña de admin en index.php
+Para instalar:
+- Se necesitan las dependencias de la API de Facebook para PHP. Leer documentación de facebook_base.php
+- Crear una aplicación en developers.facebook.com
+- Insertar datos de la app en clases.php
+- Asignar una contraseña de administrador en index.php
+
+Licencia: General Public License disponible en http://www.gnu.org/copyleft/gpl.html
